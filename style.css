@@ -4,12 +4,12 @@ body {
     margin: 0;
     padding: 0;
     color: #333;
-    background-color: rgb(172, 224, 157);
+    background-color: rgb(195, 228, 186);
 }
 
 header {
-    background-color: #4CAF50;
-    color: white;
+    background-color: #8bb88d;
+    color: rgb(173, 192, 255);
     padding: 1rem;
     text-align: center;
 }
@@ -54,7 +54,7 @@ section {
 footer {
     text-align: center;
     padding: 10px;
-    background-color: #ffffff;
+    background-color: #1cc7e6;
 }
 
 @media (max-width: 600px) {
